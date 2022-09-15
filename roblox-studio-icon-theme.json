@@ -1,0 +1,75 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "icons/legacy/file.png",
+    },
+    "_folder": {
+      "iconPath": "icons/legacy/folder.png"
+    },
+    "_script": {
+      "iconPath": "icons/legacy/script.png"
+    },
+    "_localscript": {
+      "iconPath": "icons/legacy/localscript.png"
+    },
+    "_modulescript": {
+      "iconPath": "icons/legacy/modulescript.png"
+    },
+    "_roblox": {
+      "iconPath": "icons/legacy/rbxl.png"
+    },
+    "_workspace": {
+      "iconPath": "icons/legacy/workspace.png"
+    },
+    "_replicated_storage": {
+      "iconPath": "icons/legacy/replicated_storage.png"
+    },
+    "_server_script_service": {
+      "iconPath": "icons/legacy/server_script_service.png"
+    },
+    "_lighting": {
+      "iconPath": "icons/legacy/lighting.png"
+    },
+    "_server_storage": {
+      "iconPath": "icons/legacy/server_storage.png"
+    },
+    "_starter_gui": {
+      "iconPath": "icons/legacy/starter_gui.png"
+    },
+    "_starter_pack": {
+      "iconPath": "icons/legacy/starter_pack.png"
+    },
+    "_starter_player": {
+      "iconPath": "icons/legacy/starter_player.png"
+    },
+    "_starter_player_scripts": {
+      "iconPath": "icons/legacy/starter_player_scripts.png"
+    },
+    "_run_service": {
+      "iconPath": "icons/legacy/run_service.png"
+    },
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderNames": {
+    "src": "_workspace",
+    "ReplicatedStorage": "_replicated_storage",
+    "ReplicatedFirst": "_replicated_storage",
+    "ServerScriptService": "_server_script_service",
+    "ServerStorage": "_server_storage",
+    "Lighting": "_lighting",
+    "StarterGui": "_starter_gui",
+    "StarterPack": "_starter_pack",
+    "StarterPlayer": "_starter_player",
+    "StarterPlayerScripts": "_starter_player_scripts",
+    "StarterCharacterScripts": "_starter_player_scripts",
+    "RunService": "_run_service"
+  },
+  "fileExtensions": {
+    "lua": "_modulescript",
+    "server.lua": "_script",
+    "client.lua": "_localscript",
+    "rbxl": "_roblox",
+    "rbxlx": "_roblox"
+  }
+}
