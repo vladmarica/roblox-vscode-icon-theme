@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Roblox Studio icon themes for Visual Studio Code",
   "license": "MIT",
-  "icon": "./icons/logo.png",
+  "icon": "icons/logo.png",
   "engines": {
     "vscode": "^1.22.0"
   },
@@ -22,6 +22,10 @@
         "path": "./roblox-studio-icon-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladmarica/roblox-vscode-icon-theme.git"
   },
   "publisher": "vladmarica"
 }
