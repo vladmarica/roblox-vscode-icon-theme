@@ -9,4 +9,4 @@
 ## License
 This extension is released under the MIT License.
 
-All icons are property of Roblox Corporations.
+All icons are property of Roblox Corporation.
