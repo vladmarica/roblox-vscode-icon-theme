@@ -1,13 +1,13 @@
 {
   "iconDefinitions": {
     "_sound": {
-      "iconPath": "icons/legacy/sound.png",
+      "iconPath": "icons/legacy/sound.png"
     },
     "_image": {
-      "iconPath": "icons/legacy/image.png",
+      "iconPath": "icons/legacy/image.png"
     },
     "_video": {
-      "iconPath": "icons/legacy/video.png",
+      "iconPath": "icons/legacy/video.png"
     },
     "_folder": {
       "iconPath": "icons/legacy/folder.png"
@@ -16,10 +16,10 @@
       "iconPath": "icons/legacy/folder_vscode.png"
     },
     "_file": {
-      "iconPath": "icons/legacy/file.png",
+      "iconPath": "icons/legacy/file.png"
     },
     "_file_config": {
-      "iconPath": "icons/legacy/file_config.png",
+      "iconPath": "icons/legacy/file_config.png"
     },
     "_script": {
       "iconPath": "icons/legacy/script.png"
@@ -62,7 +62,7 @@
     },
     "_run_service": {
       "iconPath": "icons/legacy/run_service.png"
-    },
+    }
   },
   "file": "_file",
   "folder": "_folder",
