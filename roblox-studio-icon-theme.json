@@ -100,6 +100,6 @@
     "server.lua": "_script",
     "client.lua": "_localscript",
     "rbxl": "_roblox",
-    "rbxlx": "_roblox",
+    "rbxlx": "_roblox"
   }
 }
