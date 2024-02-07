@@ -1,10 +1,16 @@
 {
   "iconDefinitions": {
+    "_folder": {
+      "iconPath": "icons/legacy/folder.png"
+    },
     "_file": {
       "iconPath": "icons/legacy/file.png",
     },
-    "_folder": {
-      "iconPath": "icons/legacy/folder.png"
+    "_file_config": {
+      "iconPath": "icons/legacy/file_config.png",
+    },
+    "_file_readable": {
+      "iconPath": "icons/legacy/file_readable.png",
     },
     "_script": {
       "iconPath": "icons/legacy/script.png"
@@ -66,10 +72,16 @@
     "RunService": "_run_service"
   },
   "fileExtensions": {
+    "cfg": "_file_config",
+    "json": "_file_config",
+    "toml": "_file_config",
+    "gitignore": "_file_config",
+    "md": "_file_readable",
+    "txt": "_file_readable",
     "lua": "_modulescript",
     "server.lua": "_script",
     "client.lua": "_localscript",
     "rbxl": "_roblox",
-    "rbxlx": "_roblox"
+    "rbxlx": "_roblox",
   }
 }
