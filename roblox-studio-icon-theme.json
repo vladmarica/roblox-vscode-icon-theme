@@ -67,6 +67,7 @@
   },
   "fileExtensions": {
     "lua": "_modulescript",
+    "luau": "_modulescript",
     "server.lua": "_script",
     "client.lua": "_localscript",
     "rbxl": "_roblox",
