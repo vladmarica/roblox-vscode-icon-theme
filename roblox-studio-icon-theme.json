@@ -69,7 +69,9 @@
     "lua": "_modulescript",
     "luau": "_modulescript",
     "server.lua": "_script",
+    "server.luau": "_script",
     "client.lua": "_localscript",
+    "client.luau": "_localscript",
     "rbxl": "_roblox",
     "rbxlx": "_roblox"
   }
