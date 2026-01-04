@@ -48,6 +48,12 @@
     "_run_service": {
       "iconPath": "icons/legacy/run_service.png"
     },
+    "_cog": {
+      "iconPath": "icons/legacy/cog.png"
+    },
+    "_rojo": {
+      "iconPath": "icons/legacy/file_code_red.png"
+    },
   },
   "file": "_file",
   "folder": "_folder",
@@ -65,6 +71,10 @@
     "StarterCharacterScripts": "_starter_player_scripts",
     "RunService": "_run_service"
   },
+  "languageIds": {
+    "lua": "_modulescript",
+    "luau": "_modulescript",
+  },
   "fileExtensions": {
     "lua": "_modulescript",
     "luau": "_modulescript",
@@ -73,6 +83,8 @@
     "client.lua": "_localscript",
     "client.luau": "_localscript",
     "rbxl": "_roblox",
-    "rbxlx": "_roblox"
+    "rbxlx": "_roblox",
+    "json": "_cog",
+    "project.json": "_rojo"
   }
 }
